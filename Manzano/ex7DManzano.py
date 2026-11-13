@@ -18,4 +18,4 @@ litrosUsados = distanciaPercorrida / 12
 print("O TEMPO GASTO DURANTE A VIAGEM FOI DE: ", tempo, "H")
 print("A VELOCIDADE MEDIA DA VIAGEM FOI DE: ", f'{velocidadeMedia:.2f}'+ "km/h")
 print("A DISTANCIA PERCORRIDA DURANTE A VIAGEM FOI DE: ", f'{distanciaPercorrida:.2f}',"metros ")
-print("A QUANTIDADE DE LITROS DE COMBUSTIVEL UTILIZADOS DURANTE A VIAGEM FOI DE: ",f'{litrosUsados:.2f}'"litros"))
+print("A QUANTIDADE DE LITROS DE COMBUSTIVEL UTILIZADOS DURANTE A VIAGEM FOI DE: ",f'{litrosUsados:.2f}'"litros")
