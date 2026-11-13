@@ -7,4 +7,4 @@ grausCelsius = float(input("Digite a temperatura em graus Celsius: "))
 
 grausFahrenheit = (9 * grausCelsius + 160) / 5
 
-print("A temperatura em graus Fahernehit e: "+ str(grausFahrenheit), "Graus0")
+print("A temperatura em graus Fahernehit e: "+ str(grausFahrenheit), "Graus")
